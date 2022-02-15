@@ -1,0 +1,2 @@
+# Software-Engineering
+The course provided by FCIT, The objective of this course to introduce students to the basic concepts of software engineering as they relate to the development of medium to large scale software systems. Topics include the software life cycle, requirements development, object orientation, software architecture &amp; design, and software testing. Students are expected to learn how to apply such principles to a real world problem. A term project of a mediumsize is required.
